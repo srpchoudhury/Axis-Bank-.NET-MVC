@@ -18,10 +18,10 @@ Freshers should try it
 ![Screenshot (13)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/b7b2e01e-fae2-4a5d-a009-3d59e4ab78be)
 ![Screenshot (14)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/300cf7ac-6245-405e-916b-1e68d78d79ec)
 ![Screenshot (15)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/c085498f-ae1e-4823-8864-2b3c5d636cd7)
+![Screenshot (17)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/fd5d8c4f-0804-47f9-b78c-075c9557d6e7)
 ![Screenshot (16)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/bed2e585-3a59-495e-a14b-b3d5ab2e7267)
-![Screenshot (17)](https://github.com/srpchoud![Screenshot (18)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/c744f7b5-e66c-42ab-af2a-4277160306a1)
-hury/Axis-Bank-.NET-MVC/assets/98145990/05ceae0![Screenshot (21)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/18dd28fb-4762-4b3a-b77e-542051f275e9)
-6-654d-400b-87e1-90f0d3f9bb5f)
+![Screenshot (18)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/0618c31f-ceb3-4bd7-ada1-f8f1b5682311)
+
 ![Screenshot (19)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/660b8cca-b37a-41fd-96d0-6dac148beeaa)
 ![Screenshot (20)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/44f4b6c7-61ab-4438-8201-ef46ba1ab3c3)
 
