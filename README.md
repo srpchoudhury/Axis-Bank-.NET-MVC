@@ -12,7 +12,7 @@ Freshers should try it
 ![Screenshot (7)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/9b883a68-85b4-4733-80fd-768a2b874395)
 ![Screenshot (8)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/9f2dbede-ad5c-47e1-b553-89c68a25aca6)
 ![Screenshot (9)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/a6cdcda1-d3c2-4402-b759-7fc77adb0e89)
-![Screenshot (10)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/fa61b2b6-4c48-47ed-a831-e005ac13f551)
+
 ![Screenshot (11)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/634c85a4-be8c-4ee3-a861-dd5cefdbac94)
 ![Screenshot (12)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/ae280498-4473-417b-b246-9fe6dc564c20)
 ![Screenshot (13)](https://github.com/srpchoudhury/Axis-Bank-.NET-MVC/assets/98145990/b7b2e01e-fae2-4a5d-a009-3d59e4ab78be)
